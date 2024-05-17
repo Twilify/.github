@@ -1,3 +1,7 @@
+<div align="center">
+    This project is discontinued temporarly. :C 
+</div>
+
 <div align="center" href="https://twilify.app">
     <img src="https://twilify.app/logo-128x.png">
     <h1>Welcome to Twilify</h1>

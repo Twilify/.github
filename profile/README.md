@@ -1,9 +1,10 @@
 <div align="center">
-    ## This project is discontinued temporarily :C 
+    <h1>This project is discontinued temporarily :C </h1>
 </div>
 
+<hr>
+
 <div align="center" href="https://twilify.app">
-    <img src="https://twilify.app/logo-128x.png">
     <h1>Welcome to Twilify</h1>
 </div>
 

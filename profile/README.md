@@ -1,5 +1,5 @@
 <div align="center">
-    This project is discontinued temporarly. :C 
+    This project is discontinued temporarily :C 
 </div>
 
 <div align="center" href="https://twilify.app">
